@@ -1,0 +1,10 @@
+1. Show all customers
+2. List all pending processes
+3. How many documents has Anjali Sharma submitted?
+4. Which process has the most documents?
+5. Which customers are assigned to Home Loan Application?
+6. List all document types
+7. How many customers do we have?
+8. List all completed processes
+9. Which customer has submitted the most documents?
+10. Show all processes and their required documents?
