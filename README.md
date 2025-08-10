@@ -56,7 +56,7 @@ It allows:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/quickdocs.git
+git clone https://github.com/DayanandK01/QuickDocs_EkamApps.git
 cd quickdocs
 ```
 
